@@ -1,6 +1,3 @@
-// double-click race test v5
-// QA regression test marker
-# aurem qa countdown proof
 <div align="center">
 
 # ora-grounding
@@ -9,9 +6,11 @@
 
 Deterministic post-response grounding checks + cross-family adversarial review for LLM chat agents — zero deps, bring your own LLM and your own database.
 
+> **Status (24 November 2026):** in production use at ORA by Aurem ([auremcto.com](https://auremcto.com)). Zero dependencies, Python 3.10+.
+
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-yellow?style=flat-square)](https://opensource.org/licenses/MIT)
-[![Tests](https://img.shields.io/github/actions/workflow/status/polarisbuiltinc-wq/ora-grounding/tests.yml?style=flat-square&label=tests)](https://github.com/polarisbuiltinc-wq/ora-grounding/actions/workflows/tests.yml)
+[![Tests](https://img.shields.io/github/actions/workflow/status/AuremHQ/ora-grounding/tests.yml?style=flat-square&label=tests)](https://github.com/AuremHQ/ora-grounding/actions/workflows/tests.yml)
 [![Zero deps](https://img.shields.io/badge/dependencies-zero-brightgreen?style=flat-square)](pyproject.toml)
 [![~500 LOC](https://img.shields.io/badge/size-~500%20LOC-informational?style=flat-square)](src/ora_grounding)
 
@@ -146,8 +145,8 @@ MIT — see [LICENSE](LICENSE).
 
 ## 🙏 Credits
 
-Extracted from [AUREM](https://aurem.com) — an AI-CTO assistant that reads your GitHub repo and ships code. Built by the AUREM team.
+Extracted from [ORA by Aurem](https://auremcto.com) — an AI engineer that reads your GitHub repo and ships code. Built by the Aurem team.
 
 ---
 
-**Questions?** Open an issue or reach out at [support@aurem.com](mailto:support@aurem.com).
+**Questions?** Open an issue.
